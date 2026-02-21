@@ -3,7 +3,7 @@
 
 
 **Dashboard demo** (watch first):  
-Excel Video
+[Dashboard Demo](https://github.com/AliSaleh-analyst/Marketing-CRM-Integrated-Analytics-Dashboard-Synthetic-Data/blob/main/Dashboard%20Demo/Excel%20Video.mp4)
 *(~1–2 minutes – shows dashboard navigation, slicers, KPIs, and trend visuals)*
 
 ## Project Overview
