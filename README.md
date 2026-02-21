@@ -1,11 +1,11 @@
 # Marketing & Operations BI Dashboard
 
-
+[![Watch the Demo](https://img.youtube.com/vi/8Rbj5T1a93g/0.jpg)](https://www.youtube.com/watch?v=8Rbj5T1a93g)
 
 **Dashboard demo** (watch first):  
 [Dashboard Demo](https://github.com/AliSaleh-analyst/Marketing-CRM-Integrated-Analytics-Dashboard-Synthetic-Data/blob/main/Dashboard%20Demo/Excel%20Video.mp4)
 *(~1–2 minutes – shows dashboard navigation, slicers, KPIs, and trend visuals)*
-
+https://youtu.be/8Rbj5T1a93g
 ## Project Overview
 
 This project simulates the work of a **Business Intelligence Analyst** at **Faebl Studios** — a marketing & technology company specializing in SEO, PPC, web design, and full-funnel strategies for addiction treatment facilities.
