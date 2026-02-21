@@ -3,7 +3,7 @@
 
 
 **Dashboard demo** (watch first):  
-Excel Video
+[Dashboard Demo](
 *(~1–2 minutes – shows dashboard navigation, slicers, KPIs, and trend visuals)*
 
 ## Project Overview
